@@ -2,7 +2,9 @@ Data Retrieval step for Chicago Crime Data Set
 =================================================
 
 Data Retrieval step for Chicago Crime Data Set
+
 Step 1:
+
 Open the below link.
 
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
