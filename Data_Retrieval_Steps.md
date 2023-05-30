@@ -29,6 +29,6 @@ Step 6:
 
 Now it is ready to be read by the below named python code.
 
-Filtered data named "Crimes_-_2001_to_Present_4.csv" is used by crime_analysis.qmd and
+Filtered data (2021-2023) named "Crimes_-_2001_to_Present_4.csv" is used by crime_analysis.qmd and
 
-Data without filter named "Crimes_-_2001_to_Present (3).csv" is used by crime_trends.qmd
+Data without filter (2001 - 2023) named "Crimes_-_2001_to_Present (3).csv" is used by crime_trends.qmd
