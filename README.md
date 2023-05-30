@@ -10,7 +10,6 @@ Security has always been one of the most significant concerns. Government and se
 Our project aims to investigate 
 - crimes hotspots 
 - crime patterns
-- Dashboard count of crimes in each neighbourhood
 
 ## *Method* 
 
@@ -22,7 +21,6 @@ Our project aims to investigate 
 
 - *Folium Package and K- means clustering*: This method is used to identify crime hotspots and crime patterns in a particular area, which can be used by the police and criminal investigators. 
  
-  
  Here are Python libraries we will be using for of our project: 
 
  *Data collection*: pandas, NumPy 
